@@ -1,6 +1,6 @@
 {
   "name": "covid19",
-  "homepage": "https://covid.jr.co.ve",
+  "homepage": "https://corona.jr.co.ve",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
